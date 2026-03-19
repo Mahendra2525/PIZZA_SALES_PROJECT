@@ -1,5 +1,5 @@
-#### Pizza Sales Analysis Dashboard
-📊 Project Overview
+### Pizza Sales Analysis Dashboard
+#### 📊 Project Overview
 
 This project analyzes pizza sales data using SQL, Python, and Excel Dashboarding to uncover insights about sales performance, customer behavior, and product trends.
 Product Insights
@@ -53,3 +53,5 @@ Helps understand customer buying behavior
 Identifies high-performing products to focus on
 
 Detects low-performing items for improvement or removal
+
+![image alt](https://github.com/Mahendra2525/PIZZA_SALES_PROJECT/blob/c3c6b92caa505a2c865ac6e7b277e21ce8a5e0bc/Pizza%20Sales.png)
